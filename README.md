@@ -9,11 +9,10 @@ This project applies machine learning to classify ovarian cancer using gene expr
 
 ## 🔍 Results
 - Achieved 75% accuracy on real-world structured dataset
-- Visualized top predictive genes with feature importance (GENE40, GENE10, GENE25)
+- Visualized top predictive genes with feature importance (GENE40, GENE10)
 - Evaluated with ROC-AUC and confusion matrix
 
 ## 🧠 Tech Stack
 Python, scikit-learn, pandas, seaborn, Google Colab
 
-## 📌 Author
-**Sidharth Sudeep Panicker** – aspiring biotech + AI researcher
+
